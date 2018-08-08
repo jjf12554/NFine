@@ -106,6 +106,7 @@
     <Compile Include="Validate\Validate.cs" />
     <Compile Include="VerifyCode.cs" />
     <Compile Include="Web\AjaxResult.cs" />
+    <Compile Include="Web\HttpHelp.cs" />
     <Compile Include="Web\TreeQuery.cs" />
     <Compile Include="Web\TreeGrid\TreeGrid.cs" />
     <Compile Include="Web\TreeGrid\TreeGridModel.cs" />
